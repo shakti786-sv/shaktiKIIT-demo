@@ -1,4 +1,4 @@
 # shaktiKIIT-demo
 This is my first git repository
 <br>
-author - shakti  malviya
+author - shakti  malviya (kiit)
